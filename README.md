@@ -9,6 +9,10 @@ Download assets:
 - [Game assets 4](https://graphicriver.net/item/game-character-sprite-08/9859593)
 - [UI assets](https://graphicriver.net/item/kids-game-ui-kit-pack-2/9258814?s_rank=8)
 
+# Video
+
+[![Youtube](https://github.com/Yayo-Arellano/libgdx_ninja_runner/blob/master/screenshots/youtube.png?raw=true)](https://youtu.be/6U_qy3YEXvA)
+
 # Screenshots
 
 ![Screenshot1](https://github.com/Yayo-Arellano/libgdx_ninja_runner/blob/master/screenshots/image1.png?raw=true)
